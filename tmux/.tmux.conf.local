@@ -4,7 +4,6 @@
 #         without any warranty.
 #         Copyright 2012— Gregory Pakosz (@gpakosz).
 #tmux display things in 256 colors
-set -g default-terminal "screen-256color"
 
 
 # -- navigation ----------------------------------------------------------------
