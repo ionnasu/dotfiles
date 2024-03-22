@@ -57,5 +57,10 @@
 	untracked = red
 [core]
 	excludesfile = ~/.gitignore
+	autocrlf = input
 [diff]
 	tool = git-meld
+[rerere]
+	enabled = true
+[pull]
+	rebase = true
